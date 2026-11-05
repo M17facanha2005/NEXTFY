@@ -1,8 +1,5 @@
 # NEXTFY
 
-[![Latest release](https://img.shields.io/github/v/release/M17facanha2005/NEXTFY?label=release)](https://github.com/M17facanha2005/NEXTFY/releases/latest)
-[![License: GPL-3.0](https://img.shields.io/github/license/M17facanha2005/NEXTFY)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/jXKnGVFnGS)
 
 **Spotify sem anúncios, em conta gratuita.** Sua própria conta do Spotify, playlists e Wrapped, num app nativo para Android que bloqueia anúncios, com downloads offline por extensões que você instala.
 
