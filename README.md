@@ -14,10 +14,7 @@
   <a href="https://github.com/M17facanha2005/NEXTFY/releases/latest"><b>⬇ Baixar o APK mais recente</b></a>
 </p>
 
-<p align="center">
-  <a href="https://ko-fi.com/kotazo"><img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Apoie o NEXTFY no Ko-fi" height="56"></a>
-  <a href="https://github.com/sponsors/M17facanha2005"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Patrocine M17facanha2005 no GitHub" height="56"></a>
-</p>
+
 
 ## Por que NEXTFY
 
